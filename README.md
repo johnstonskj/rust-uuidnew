@@ -1,7 +1,7 @@
 # crate uuidnew
 
 This crate provides a simple cli for generating UUIDs, but with more options
-than =uuidgen=.
+than `uuidgen`.
 
 <!-- markdownlint-disable MD013 -->
 [![Apache-2.0 License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
@@ -48,7 +48,7 @@ Options:
 ```
 
 Calling the command with no additional arguments will return a single V4 random
-UUID formatted with dashes only. This is =uuidgen= compatible.
+UUID formatted with dashes only. This is `uuidgen` compatible.
 
 ```bash
 ❯ uuidnew
