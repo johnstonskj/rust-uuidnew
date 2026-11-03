@@ -7,7 +7,6 @@ than `uuidgen`.
 [![Apache-2.0 License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![MIT License](https://img.shields.io/badge/license-mit-118811.svg)](https://opensource.org/license/mit)
 [![crates.io](https://img.shields.io/crates/v/uuidnew.svg)](https://crates.io/crates/uuidnew)
-[![docs.rs](https://docs.rs/uuidnew/badge.svg)](https://docs.rs/uuidnew)
 [![GitHub stars](https://img.shields.io/github/stars/johnstonskj/rust-uuidnew.svg)](<https://github.com/johnstonskj/rust-uuidnew/stargazers>)
 <!-- markdownlint-enable MD013 -->
 
